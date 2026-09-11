@@ -1763,13 +1763,13 @@ We cover **masked/absorbing, block, and continuous diffusion LMs**, including **
 
 ## Star History
 
-<a href="https://www.star-history.com/?type=date&repos=hasson827%2FAwesome-DLMs-post-training">
+[<a href="https://www.star-history.com/?type=date&repos=hasson827%2FAwesome-DLMs-post-training">
  <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=hasson827/Awesome-DLMs-post-training&type=date&theme=dark&legend=top-left&sealed_token=GeI_ZQNY1cDuNBKausNmolsk8mknDemK-I3HQqnimSM7OEDTTIgGKBAGyi04la4onWvP17Kl1lSztgHTXb_Z_jDI-WKFiR4PGD0C_Ow7jaPgrNbzqChD6g" />
    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=hasson827/Awesome-DLMs-post-training&type=date&legend=top-left&sealed_token=GeI_ZQNY1cDuNBKausNmolsk8mknDemK-I3HQqnimSM7OEDTTIgGKBAGyi04la4onWvP17Kl1lSztgHTXb_Z_jDI-WKFiR4PGD0C_Ow7jaPgrNbzqChD6g" />
    <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=hasson827/Awesome-DLMs-post-training&type=date&legend=top-left&sealed_token=GeI_ZQNY1cDuNBKausNmolsk8mknDemK-I3HQqnimSM7OEDTTIgGKBAGyi04la4onWvP17Kl1lSztgHTXb_Z_jDI-WKFiR4PGD0C_Ow7jaPgrNbzqChD6g" />
  </picture>
-</a>
+</a>](https://www.star-history.com/?repos=hasson827%2FAwesome-DLMs-post-training&type=date&legend=top-left)
 
 ## Contributing
 
