@@ -3012,6 +3012,19 @@ We cover **masked/absorbing, block, and continuous diffusion LMs**, including **
   **TL;DR:** Systematically evaluates LLaDA/Dream on AgentBoard/BFCL, finding current dLLMs are not yet reliable as backbones for embodied and tool-calling agents. arXiv 2026.
   </details>
 
+- <details>
+  <summary>
+    <b>[08/2025] Empirical Analysis of Decoding Biases in Masked Diffusion Models (UNCODE)</b>
+    <a href="https://arxiv.org/abs/2508.13021"><img src="https://img.shields.io/badge/arXiv-2508.13021-b31b1b.svg" alt="arXiv"></a>
+    <a href="https://www.alphaxiv.org/abs/2508.13021"><img src="https://img.shields.io/badge/AlphaXiv-2508.13021-7c3aed.svg" alt="AlphaXiv"></a>
+    <a href="https://github.com/NEUIR/Uncode"><img src="https://img.shields.io/github/stars/NEUIR/Uncode?style=social&label=Stars" alt="GitHub Stars"></a>
+  </summary>
+
+  **Authors:** Pengcheng Huang, Tianming Liu, Zhenghao Liu, Yukun Yan, Shuo Wang, Tong Xiao, Zulong Chen, Maosong Sun
+
+  **TL;DR:** Shows that uncertainty-based MDM decoding suffers from a rigid boundary bias and a trivial token bias, and proposes UNCODE, a training-free calibration with positional-trajectory and content-informativeness priors that beats existing decoding strategies by more than 7% across 3 MDMs and 7 reasoning/planning benchmarks while keeping the 2–4× speedups of fast samplers. ACL 2026 (Oral).
+  </details>
+
 ### Related Awesome Lists
 
 - [VILA-Lab/Awesome-DLMs](https://github.com/VILA-Lab/Awesome-DLMs) — Official list of the paper *A Survey on Diffusion Language Models*; its Training Strategies / RL sections are great for cross-checking.
