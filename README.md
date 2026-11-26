@@ -31,7 +31,7 @@ We cover **masked/absorbing, block, and continuous diffusion LMs**, including **
 - [Distillation](#distillation) (23)
 - [Inference Acceleration](#inference-acceleration) (41)
 - [Training Objectives & Foundations](#training-objectives--foundations) (21)
-- [Adaptation Techniques](#adaptation-techniques) (13)
+- [Adaptation Techniques](#adaptation-techniques) (14)
 - [Multimodal dLLMs](#multimodal-dllms) (28)
 - [Code dLLMs](#code-dllms) (17)
 - [Frameworks & Benchmarks](#frameworks--benchmarks)
@@ -2228,6 +2228,19 @@ We cover **masked/absorbing, block, and continuous diffusion LMs**, including **
   </details>
 
 ## Adaptation Techniques
+
+- <details>
+  <summary>
+    <b>[11/24/2026] On the Importance of Hidden-State Refinement in Masked Diffusion Language Models</b>
+    <a href="https://arxiv.org/abs/2611.32416"><img src="https://img.shields.io/badge/arXiv-2611.32416-b31b1b.svg" alt="arXiv"></a>
+    <a href="https://www.alphaxiv.org/abs/2611.32416"><img src="https://img.shields.io/badge/AlphaXiv-2611.32416-7c3aed.svg" alt="AlphaXiv"></a>
+    <a href="https://github.com/zhongzero/Recurrent-DLLM"><img src="https://img.shields.io/github/stars/zhongzero/Recurrent-DLLM?style=social&label=Stars" alt="GitHub Stars"></a>
+  </summary>
+
+  **Authors:** Linhao Zhong, Bozhen Fang, Xuehao Wang, Zekai Luo, Liyang Li, Hourong Li, Chenchen Jing, Hao Chen
+
+  **TL;DR:** CSRR adapts pretrained masked diffusion LMs by adding cross-attention to the previous denoising step’s final hidden states. The paper evaluates both module-only training and joint fine-tuning. arXiv 2026.
+  </details>
 
 - <details>
   <summary>
